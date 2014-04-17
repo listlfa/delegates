@@ -23,10 +23,5 @@ namespace Delegates01
         {
             InitializeComponent();
         }
-
-        private void button1_Click(object sender, RoutedEventArgs e)
-        {
-            textBox1.Text = "Test";
-        }
     }
 }
